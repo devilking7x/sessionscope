@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Searchable explorer for AI agent session transcripts — token & cost analytics, local-first.",
   "private": true,
+  "packageManager": "pnpm@10.15.1",
   "license": "MIT",
   "type": "module",
   "scripts": {
