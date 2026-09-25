@@ -58,7 +58,7 @@ The parser is deliberately forgiving — it also accepts flat `{role, content}` 
 
 ## 📸 Screenshots
 
-> Screenshots coming soon — the app ships with a dark gold-accented studio theme.
+![SessionScope dashboard with sample transcript loaded](screenshots/demo.png)
 
 *Session cards with token/cost stats · Full-text search across sessions · Transcript explorer with role filters · Side-by-side compare · Editable pricing table*
 
